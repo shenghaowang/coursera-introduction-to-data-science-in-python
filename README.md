@@ -1,2 +1,2 @@
-# introduction-to-data-science-in-python-coursera
+# coursera-introduction-to-data-science-in-python
 Archived work of Python online course
